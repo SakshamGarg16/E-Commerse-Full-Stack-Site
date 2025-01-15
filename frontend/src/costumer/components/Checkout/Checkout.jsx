@@ -22,7 +22,6 @@ export default function Checkout() {
   const location = useLocation();
   const querySearch = new URLSearchParams(location.search);
   const step = querySearch.get("step")
-  console.log(step)
 
   const handleNext = () => {
    
