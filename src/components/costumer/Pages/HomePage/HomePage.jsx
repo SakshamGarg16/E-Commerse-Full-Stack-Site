@@ -14,7 +14,7 @@ const HomePage = () => {
                 <MainCardCarosel data={mens_kurta} SectionName={"Mens shirt"}/>
                 <MainCardCarosel data={mens_kurta} SectionName={"women saree"}/>
                 <MainCardCarosel data={mens_kurta} SectionName={"women sandle"}/>
-                <MainCardCarosel data={mens_kurta} SectionName={"women bikni"}/>
+                <MainCardCarosel data={mens_kurta} SectionName={"women kurti"}/>
             </div>
         </div>
     )
